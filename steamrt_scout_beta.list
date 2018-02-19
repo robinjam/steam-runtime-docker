@@ -1,0 +1,2 @@
+deb http://repo.steampowered.com/steamrt/ scout_beta main
+deb-src http://repo.steampowered.com/steamrt/ scout_beta main
